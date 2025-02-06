@@ -1,0 +1,1 @@
+Spring boot project with two endpoints specified in controller.
